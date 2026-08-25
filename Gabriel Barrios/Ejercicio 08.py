@@ -19,6 +19,6 @@ def calcular_compra_camisetas():
         print(f" Total a pagar:     ${total:,.2f}")
 
     except ValueError:
-        print("❌ Error: Por favor, ingrese un monto numérico válido.")
+        print(" Error: Por favor, ingrese un monto numérico válido.")
 
 calcular_compra_camisetas()
