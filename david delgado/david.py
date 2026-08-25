@@ -1,4 +1,4 @@
-#determinar edad minima para votar 
+#determinar edad minima para votar...
 
 edad = int(input("Introduce tu edad: "))
 
